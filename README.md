@@ -1,6 +1,8 @@
 # Desktop Game of Life using an 8x8 Matrix
 
-This is a small 8x8 version of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) running on an [Arduino Nano](https://store.arduino.cc/usa/arduino-nano#:~:text=The%20Arduino%20Nano%20is%20a,instead%20of%20a%20standard%20one.) and displayed on a [DM11A88 8x8 LED Matrix](https://www.amazon.com/Square-DM11A88-Display-Module74hc595-Arduino/dp/B07T3PY8SW).
+This is a small 8x8 version of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) running on an [Arduino Nano](https://store.arduino.cc/usa/arduino-nano#:~:text=The%20Arduino%20Nano%20is%20a,instead%20of%20a%20standard%20one.) and displayed on a [DM11A88 8x8 LED Matrix](https://www.amazon.com/DM11A88-Display-74hc595-MEGA2560-Raspberry/dp/B08KFX9G87).
+
+In the `libraries` folder I included the `TimerOne.h` and `Matrix.h` library files that were provided to me by the manufacturer.
 
 I included the Adobe Illustrator file that I used to lasercut a 1/8 inch piece of basswood to build the enclosure.
 
